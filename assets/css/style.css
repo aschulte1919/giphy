@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 150px;
+}
+
+.btn-secondary {
+    margin: 10px 5px 10px 5px;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+#images{
+    padding: 20px;
+    border: 30px;
+    border-color: beige;
+}
